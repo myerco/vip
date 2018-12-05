@@ -1,0 +1,1507 @@
+﻿Log file open, 12/04/18 18:21:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Vip
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416950
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.179s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.04-22.21.56:611][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-22.21.56:611][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.04-22.21.56:657][  0]LogHAL: Display: Platform has ~ 16 GB [17114685440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.04-22.21.56:657][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.04-22.21.56:657][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.04-22.21.56:658][  0]LogInit: Computer: PC
+[2018.12.04-22.21.56:658][  0]LogInit: User: myerc
+[2018.12.04-22.21.56:658][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.04-22.21.56:658][  0]LogInit: High frequency timer resolution =3.897232 MHz
+[2018.12.04-22.21.56:658][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.04-22.21.56:658][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.04-22.21.56:658][  0]LogMemory: Process Physical Memory: 101.41 MB used, 101.41 MB peak
+[2018.12.04-22.21.56:658][  0]LogMemory: Process Virtual Memory: 90.45 MB used, 90.45 MB peak
+[2018.12.04-22.21.56:658][  0]LogMemory: Physical Memory: 5162.44 MB used,  11159.39 MB free, 16321.84 MB total
+[2018.12.04-22.21.56:658][  0]LogMemory: Virtual Memory: 4644.35 MB used,  11159.39 MB free, 134217728.00 MB total
+[2018.12.04-22.21.57:451][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.12.04-22.21.57:451][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.12.04-22.21.57:800][  0]LogStreaming: Display: Took  0.348s to InitEngineTextLocalization.
+[2018.12.04-22.21.57:800][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.04-22.21.57:963][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.04-22.21.57:963][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.04-22.21.59:028][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-22.21.59:028][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.04-22.21.59:205][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.12.04-22.21.59:205][  0]LogD3D11RHI:       4043/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.04-22.21.59:210][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.04-22.21.59:210][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.04-22.21.59:210][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.04-22.21.59:217][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.04-22.21.59:217][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.04-22.21.59:217][  0]LogWindows: EnumDisplayDevices:
+[2018.12.04-22.21.59:217][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.12.04-22.21.59:217][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.04-22.21.59:218][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.04-22.21.59:218][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.12.04-22.21.59:218][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.04-22.21.59:218][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.12.04-22.21.59:218][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2018.12.04-22.21.59:218][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2018.12.04-22.21.59:218][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.12.04-22.21.59:335][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.04-22.21.59:386][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.04-22.21.59:436][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../../UnrealProjects/Vip/Intermediate/Shaders/WorkingDirectory/2592/).
+[2018.12.04-22.21.59:439][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/myerc/AppData/Local/Temp/UnrealShaderWorkingDir/9EE7E175490D075E480877B38EB62271/'.
+[2018.12.04-22.22.00:684][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.04-22.22.00:721][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.04-22.22.00:754][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.04-22.22.00:787][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.04-22.22.00:823][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.04-22.22.00:855][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.04-22.22.00:888][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.04-22.22.00:920][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.04-22.22.00:941][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:110][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.04-22.22.01:124][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.04-22.22.01:231][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-22.22.01:231][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.04-22.22.01:278][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-22.22.01:278][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.04-22.22.01:307][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.04-22.22.01:335][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.04-22.22.01:363][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.04-22.22.01:396][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.04-22.22.01:420][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.04-22.22.01:420][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.04-22.22.01:718][  0]LogXGEController: Cleaning working directory: C:/Users/myerc/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.04-22.22.01:720][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.04-22.22.01:721][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.04-22.22.01:721][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.04-22.22.05:017][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.04-22.22.05:099][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/myerc/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-22.22.05:101][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/myerc/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.04-22.22.05:101][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UnrealProjects/Vip/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.04-22.22.05:101][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.04-22.22.05:102][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UnrealProjects/Vip/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.04-22.22.05:102][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.04-22.22.05:115][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.04-22.22.05:137][  0]LogDerivedDataCache: Using Local data cache path C:/Users/myerc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.04-22.22.05:137][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.04-22.22.05:137][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.04-22.22.05:158][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.04-22.22.05:160][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.04-22.22.05:163][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.04-22.22.05:336][  0]LogAssetRegistry: FAssetRegistry took 0.0339 seconds to start up
+[2018.12.04-22.22.06:099][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.04-22.22.06:395][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.04-22.22.06:418][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.04-22.22.06:418][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.04-22.22.06:418][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.04-22.22.06:418][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.04-22.22.06:446][  0]LogNetVersion: Vip 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 805055372)
+[2018.12.04-22.22.07:460][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.211829 seconds
+[2018.12.04-22.22.07:465][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.04-22.22.07:465][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.04-22.22.07:465][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.04-22.22.09:755][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.04-22.22.09:777][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.04-22.22.10:164][  0]SourceControl: Source control is disabled
+[2018.12.04-22.22.10:164][  0]SourceControl: Source control is disabled
+[2018.12.04-22.22.10:179][  0]SourceControl: Source control is disabled
+[2018.12.04-22.22.10:189][  0]SourceControl: Source control is disabled
+[2018.12.04-22.22.10:762][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.04-22.22.11:010][  0]LogOcInput: OculusInput pre-init called
+[2018.12.04-22.22.11:156][  0]LogEngine: Initializing Engine...
+[2018.12.04-22.22.11:160][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.04-22.22.11:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-22.22.11:162][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-22.22.11:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.12.04-22.22.11:163][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-22.22.11:450][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.04-22.22.11:494][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.04-22.22.11:525][  0]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.22.11:558][  0]LogInit: FAudioDevice initialized.
+[2018.12.04-22.22.11:559][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.04-22.22.11:767][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/myerc/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.04-22.22.11:832][  0]LogInit: Texture streaming: Enabled
+[2018.12.04-22.22.11:924][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.04-22.22.11:964][  0]LogInit: Transaction tracking system initialized
+[2018.12.04-22.22.12:061][  0]BlueprintLog: New page: Editor Load
+[2018.12.04-22.22.12:369][  0]LocalizationService: Localization service is disabled
+[2018.12.04-22.22.13:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.04-22.22.13:109][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.04-22.22.13:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.04-22.22.13:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.04-22.22.13:109][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.04-22.22.13:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.12.04-22.22.13:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.04-22.22.13:226][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/Vip/Content/' took 0.02s
+[2018.12.04-22.22.13:558][  0]SourceControl: Source control is disabled
+[2018.12.04-22.22.13:558][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-22.22.13:560][  0]LightingResults: New page: Lighting Build
+[2018.12.04-22.22.13:570][  0]MapCheck: New page: Map Check
+[2018.12.04-22.22.13:570][  0]LightingResults: New page: Lighting Build
+[2018.12.04-22.22.13:884][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.04-22.22.13:908][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-22.22.13:931][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-22.22.14:718][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 787.63ms to complete.
+[2018.12.04-22.22.14:718][  0]LogFileHelpers: Loading map 'Template_Default' took 1.161
+[2018.12.04-22.22.14:880][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.22.14:887][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.22.14:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.22.14:901][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.22.14:928][  0]LogCollectionManager: Loaded 0 collections in 0.004649 seconds
+[2018.12.04-22.22.14:996][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/Vip/Saved/Collections/' took 0.01s
+[2018.12.04-22.22.14:996][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/Vip/Content/Developers/myerc/Collections/' took 0.01s
+[2018.12.04-22.22.14:996][  0]LogFileCache: Scanning file cache for directory 'C:/UnrealProjects/Vip/Content/Collections/' took 0.01s
+[2018.12.04-22.22.14:996][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.04-22.22.15:005][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2572 classes and 603 folders.
+[2018.12.04-22.22.15:025][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.04-22.22.15:321][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.12.04-22.22.15:340][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.04-22.22.15:434][  0]LogSlate: Took 0.000585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.04-22.22.15:437][  0]LogSlate: Took 0.000666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.04-22.22.15:439][  0]LogSlate: Took 0.000611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.04-22.22.15:516][  0]LogRenderer: Reallocating scene render targets to support 1528x712 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-22.22.15:683][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.04-22.22.15:683][  0]LogLoad: (Engine Initialization) Total time: 26.58 seconds
+[2018.12.04-22.22.15:683][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.04-22.22.15:718][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.04-22.22.15:731][  0]LogSlate: Took 0.000865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-22.22.15:752][  1]LogAssetRegistry: Asset discovery search completed in 10.4409 seconds
+[2018.12.04-22.22.15:754][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.04-22.22.15:754][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2018.12.04-22.22.17:094][  5]LogSlate: Took 0.002928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.04-22.23.09:305][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.23.10:206][507]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.23.11:867][683]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-22.23.11:889][683]LightingResults: New page: Lighting Build
+[2018.12.04-22.23.11:890][683]LoadErrors: New page: Loading map: Level1.umap
+[2018.12.04-22.23.11:892][683]MapCheck: New page: Map Check
+[2018.12.04-22.23.11:892][683]LightingResults: New page: Lighting Build
+[2018.12.04-22.23.11:989][683]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.23.12:040][683]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-22.23.12:098][683]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-22.23.12:899][683]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 801.191ms to complete.
+[2018.12.04-22.23.12:899][683]LogFileHelpers: Loading map 'Level1' took 1.033
+[2018.12.04-22.23.12:900][683]LogSlate: Window 'Open Level' being destroyed
+[2018.12.04-22.23.15:248][957]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.04-22.23.18:979][377]LogEditorViewport: Clicking on Actor (LMB): BP_HeroChar_C (BP_HeroChar)
+[2018.12.04-22.23.20:818][583]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.04-22.23.23:852][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.23.23:962][950]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Personagem/BP_HeroChar.BP_HeroChar
+[2018.12.04-22.23.24:468][950]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.12.04-22.23.25:266][950]LogSlate: Took 0.000760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.04-22.23.25:341][951]LogSlate: Took 0.000857 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.04-22.23.27:630][208]LogSlate: Window 'BP_HeroChar' being destroyed
+[2018.12.04-22.23.28:432][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.23.33:494][905]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.23.40:259][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.23.43:688][105]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.23.54:909][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.23.55:016][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.23.55:119][442]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level12F3502EF4AF174FAEE32F0BB0AE0C451.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.23.56:114][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.23.56:227][564]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.23.56:247][564]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.23.56:262][564]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:23:56 PM)
+[2018.12.04-22.23.56:262][564]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.23.56:270][564]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007776s)
+[2018.12.04-22.23.56:270][564]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.23.56:270][564]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.12.04-22.23.56:271][564]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008483s)
+[2018.12.04-22.23.56:341][564]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.23.56:357][564]LogInit: FAudioDevice initialized.
+[2018.12.04-22.23.56:404][564]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.23.56:408][564]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.23.56
+[2018.12.04-22.23.56:408][564]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.23.56:410][564]LogWorld: Bringing up level for play took: 0.002618
+[2018.12.04-22.23.56:464][564]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.12.04-22.23.56:465][564]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.279
+[2018.12.04-22.23.59:190][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.23.59:233][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.23.59:266][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.23.59:295][891]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.12.04-22.24.01:238][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.24.07:755][892]LogEditorViewport: Clicking on Actor (LMB): BP_HeroChar_C (BP_HeroChar)
+[2018.12.04-22.24.23:946][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.24.28:959][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.24.50:131][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.24.50:218][922]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level103AD23AC4B444265DB261AAF8262368E.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.24.51:207][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.24.51:226][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.24.51:227][ 32]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:24:51 PM)
+[2018.12.04-22.24.51:227][ 32]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.24.51:234][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007528s)
+[2018.12.04-22.24.51:235][ 32]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.24.51:235][ 32]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.12.04-22.24.51:235][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008238s)
+[2018.12.04-22.24.51:311][ 32]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.24.51:327][ 32]LogInit: FAudioDevice initialized.
+[2018.12.04-22.24.51:361][ 32]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.24.51:362][ 32]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.24.51
+[2018.12.04-22.24.51:363][ 32]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.24.51:363][ 32]LogWorld: Bringing up level for play took: 0.000726
+[2018.12.04-22.24.51:378][ 32]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.808
+[2018.12.04-22.24.58:152][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.24.58:193][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.24.58:220][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.24.58:255][847]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.04-22.25.05:202][670]LogEditorViewport: Clicking on Actor (LMB): BP_HeroChar_C (BP_HeroChar)
+[2018.12.04-22.25.12:163][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.25.14:773][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.25.14:875][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.25.14:963][812]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level16D5CB02E4B75DE2FB4572CB41D5E6D13.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.25.16:569][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.25.16:665][  7]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.25.16:683][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.25.16:684][  7]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:25:16 PM)
+[2018.12.04-22.25.16:684][  7]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.25.16:691][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007268s)
+[2018.12.04-22.25.16:691][  7]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.25.16:692][  7]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2018.12.04-22.25.16:692][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007930s)
+[2018.12.04-22.25.16:763][  7]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.25.16:778][  7]LogInit: FAudioDevice initialized.
+[2018.12.04-22.25.16:811][  7]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.25.16:812][  7]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.25.16
+[2018.12.04-22.25.16:813][  7]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.25.16:813][  7]LogWorld: Bringing up level for play took: 0.000860
+[2018.12.04-22.25.16:829][  7]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.643
+[2018.12.04-22.25.22:583][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.25.22:622][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.25.22:647][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.25.22:689][701]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.04-22.26.14:772][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.26.20:673][945]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.26.27:881][802]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.26.33:419][462]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.26.37:882][995]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.26.38:958][122]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.26.44:874][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.26.44:976][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.26.45:066][839]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level1CBD7CA2440B083EFC0E89C93FFAC1D7E.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.26.46:338][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.26.46:417][991]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.26.46:436][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.26.46:436][991]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:26:46 PM)
+[2018.12.04-22.26.46:436][991]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.26.46:443][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007300s)
+[2018.12.04-22.26.46:444][991]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.26.46:444][991]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2018.12.04-22.26.46:444][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007928s)
+[2018.12.04-22.26.46:486][991]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.26.46:502][991]LogInit: FAudioDevice initialized.
+[2018.12.04-22.26.46:541][991]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.26.46:542][991]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.26.46
+[2018.12.04-22.26.46:542][991]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.26.46:543][991]LogWorld: Bringing up level for play took: 0.000821
+[2018.12.04-22.26.46:558][991]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.372
+[2018.12.04-22.27.08:708][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.27.08:751][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.27.08:778][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.27.08:812][651]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.04-22.27.14:339][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.27.56:284][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.28.03:126][239]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.28.06:632][659]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.28.08:350][863]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.28.10:954][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.28.11:042][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.28.11:061][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.28.11:061][183]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:28:11 PM)
+[2018.12.04-22.28.11:061][183]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.28.11:069][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007862s)
+[2018.12.04-22.28.11:070][183]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.28.11:070][183]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2018.12.04-22.28.11:070][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008615s)
+[2018.12.04-22.28.11:109][183]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.28.11:125][183]LogInit: FAudioDevice initialized.
+[2018.12.04-22.28.11:161][183]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.28.11:163][183]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.28.11
+[2018.12.04-22.28.11:163][183]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.28.11:163][183]LogWorld: Bringing up level for play took: 0.001037
+[2018.12.04-22.28.11:179][183]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.993
+[2018.12.04-22.28.20:686][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.28.20:726][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.28.20:748][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.28.20:788][326]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.12.04-22.28.24:934][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.28.32:372][708]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.28.33:616][855]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.28.39:508][556]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.28.49:765][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.28.49:866][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.28.49:953][791]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level1A7D66424449F1A76AC446383D9D6FF4F.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.28.52:078][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.28.52:150][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.28.52:168][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.28.52:168][ 44]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:28:52 PM)
+[2018.12.04-22.28.52:168][ 44]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.28.52:176][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007359s)
+[2018.12.04-22.28.52:176][ 44]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.28.52:177][ 44]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2018.12.04-22.28.52:177][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008094s)
+[2018.12.04-22.28.52:218][ 44]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.28.52:235][ 44]LogInit: FAudioDevice initialized.
+[2018.12.04-22.28.52:271][ 44]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.28.52:272][ 44]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.28.52
+[2018.12.04-22.28.52:272][ 44]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.28.52:272][ 44]LogWorld: Bringing up level for play took: 0.000849
+[2018.12.04-22.28.52:288][ 44]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.102
+[2018.12.04-22.28.58:462][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.28.58:505][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.28.58:546][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.28.58:567][785]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.04-22.29.04:550][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.29.09:971][132]LogActorFactory: Actor Factory created Cube
+[2018.12.04-22.29.11:613][285]LogActorFactory: Actor Factory created Cube
+[2018.12.04-22.29.23:017][640]LogEditorViewport: Clicking Background
+[2018.12.04-22.29.23:851][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.04-22.29.30:099][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.29.30:164][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.29.30:264][482]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level1267B10A147380495147169A911340B56.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.29.31:134][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.29.31:206][585]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.29.31:226][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.29.31:226][585]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:29:31 PM)
+[2018.12.04-22.29.31:226][585]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.29.31:234][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007777s)
+[2018.12.04-22.29.31:234][585]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.29.31:234][585]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.12.04-22.29.31:234][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008440s)
+[2018.12.04-22.29.31:276][585]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.29.31:292][585]LogInit: FAudioDevice initialized.
+[2018.12.04-22.29.31:327][585]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.29.31:328][585]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.29.31
+[2018.12.04-22.29.31:329][585]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.29.31:329][585]LogWorld: Bringing up level for play took: 0.000875
+[2018.12.04-22.29.31:345][585]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.841
+[2018.12.04-22.29.34:022][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.29.34:060][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.29.34:084][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.29.34:124][910]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.04-22.29.34:524][958]Cmd: SELECT NONE
+[2018.12.04-22.30.02:247][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.31.51:825][288]LogSlate: Window 'Open Level' being destroyed
+[2018.12.04-22.32.18:633][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.32.20:522][275]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.32.20:541][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.32.20:541][275]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:32:20 PM)
+[2018.12.04-22.32.20:541][275]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.32.20:549][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007912s)
+[2018.12.04-22.32.20:550][275]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.32.20:550][275]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.12.04-22.32.20:550][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008664s)
+[2018.12.04-22.32.20:593][275]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.32.20:611][275]LogInit: FAudioDevice initialized.
+[2018.12.04-22.32.20:643][275]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.32.20:644][275]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.32.20
+[2018.12.04-22.32.20:645][275]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.32.20:645][275]LogWorld: Bringing up level for play took: 0.000987
+[2018.12.04-22.32.20:661][275]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.475
+[2018.12.04-22.32.25:668][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.32.25:707][873]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.32.25:732][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.32.25:775][877]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.04-22.32.28:924][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.32.32:251][340]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.32.32:271][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.32.32:271][340]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:32:32 PM)
+[2018.12.04-22.32.32:271][340]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.32.32:279][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007602s)
+[2018.12.04-22.32.32:279][340]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.32.32:280][340]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.12.04-22.32.32:280][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008636s)
+[2018.12.04-22.32.32:320][340]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.32.32:336][340]LogInit: FAudioDevice initialized.
+[2018.12.04-22.32.32:368][340]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.32.32:369][340]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.32.32
+[2018.12.04-22.32.32:369][340]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.32.32:370][340]LogWorld: Bringing up level for play took: 0.000811
+[2018.12.04-22.32.32:385][340]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.199
+[2018.12.04-22.32.40:315][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.32.40:350][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.32.40:375][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.32.40:423][294]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.04-22.32.41:600][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.32.42:989][601]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.32.43:008][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.32.43:008][601]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:32:43 PM)
+[2018.12.04-22.32.43:008][601]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.32.43:016][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007560s)
+[2018.12.04-22.32.43:016][601]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.32.43:016][601]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.12.04-22.32.43:016][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008211s)
+[2018.12.04-22.32.43:057][601]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.32.43:073][601]LogInit: FAudioDevice initialized.
+[2018.12.04-22.32.43:107][601]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.32.43:109][601]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.32.43
+[2018.12.04-22.32.43:109][601]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.32.43:109][601]LogWorld: Bringing up level for play took: 0.000863
+[2018.12.04-22.32.43:125][601]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.939
+[2018.12.04-22.33.21:802][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.33.21:841][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.33.21:867][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.33.21:905][734]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.04-22.33.26:491][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.33.28:248][472]LogEditorActor: Deleted Actor: BP_HeroChar_C
+[2018.12.04-22.33.28:272][472]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.12.04-22.33.30:081][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.33.30:168][686]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level1D385573E41C0C949F5060F93F9C8CDF2.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.33.37:643][565]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.33.37:664][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.33.37:665][565]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:33:37 PM)
+[2018.12.04-22.33.37:665][565]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.33.37:672][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007110s)
+[2018.12.04-22.33.37:672][565]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.33.37:672][565]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2018.12.04-22.33.37:672][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007764s)
+[2018.12.04-22.33.37:713][565]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.33.37:728][565]LogInit: FAudioDevice initialized.
+[2018.12.04-22.33.37:764][565]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.33.37:765][565]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.33.37
+[2018.12.04-22.33.37:766][565]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.33.37:766][565]LogWorld: Bringing up level for play took: 0.000598
+[2018.12.04-22.33.37:781][565]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.405
+[2018.12.04-22.33.44:185][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.33.44:223][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.33.44:249][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.33.44:292][337]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.04-22.33.45:361][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.34.00:640][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.34.07:929][ 12]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.04-22.34.09:393][172]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Vip
+[2018.12.04-22.34.09:393][172]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.04-22.34.09:393][172]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.12.04-22.34.09:393][172]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.12.04-22.34.09:401][173]LogTemp: BranchPath = PC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = PC/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.12.04-22.34.09:452][179]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\myerc\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.04-22.36.14:677][983]LogRenderer: Reallocating scene render targets to support 1528x744 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-22.36.17:433][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.37.03:644][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.37.03:725][135]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.37.04:683][227]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.37.04:705][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.37.04:705][227]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:37:04 PM)
+[2018.12.04-22.37.04:705][227]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.37.04:713][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007094s)
+[2018.12.04-22.37.04:713][227]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.37.04:713][227]LogPlayLevel: PIE: World Init took: (0.000598s)
+[2018.12.04-22.37.04:713][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007781s)
+[2018.12.04-22.37.04:754][227]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.37.04:770][227]LogInit: FAudioDevice initialized.
+[2018.12.04-22.37.04:783][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.37.04:823][227]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.37.04:824][227]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.37.04
+[2018.12.04-22.37.04:824][227]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.37.04:824][227]LogWorld: Bringing up level for play took: 0.000642
+[2018.12.04-22.37.04:841][227]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.656
+[2018.12.04-22.37.04:853][227]LogRenderer: Reallocating scene render targets to support 1528x756 Format 10 NumSamples 1 (Frame:1).
+[2018.12.04-22.37.08:001][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.37.08:021][595]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.37.08:058][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.37.08:114][597]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.04-22.37.12:405][112]Cmd: TRANSACTION UNDO
+[2018.12.04-22.37.12:406][112]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.04-22.37.22:637][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.37.22:726][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.37.22:807][329]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroChar81CCBBE24B6E4087A16151BC4D047F78.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.37.40:722][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.37.40:802][718]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.37.41:368][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.37.41:431][761]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroChar8343884249462D0B5D125DBDF4421F55.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.37.42:483][882]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.37.42:506][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.37.42:506][882]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:37:42 PM)
+[2018.12.04-22.37.42:506][882]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.37.42:513][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007270s)
+[2018.12.04-22.37.42:514][882]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.37.42:514][882]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2018.12.04-22.37.42:514][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007942s)
+[2018.12.04-22.37.42:556][882]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.37.42:572][882]LogInit: FAudioDevice initialized.
+[2018.12.04-22.37.42:588][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.37.42:624][882]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.37.42:625][882]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.37.42
+[2018.12.04-22.37.42:625][882]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.37.42:625][882]LogWorld: Bringing up level for play took: 0.000633
+[2018.12.04-22.37.42:642][882]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.456
+[2018.12.04-22.37.44:982][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.37.45:002][156]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.37.45:038][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.37.45:084][158]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.04-22.37.47:261][419]Cmd: TRANSACTION UNDO
+[2018.12.04-22.37.47:261][419]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.04-22.37.48:784][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.37.48:847][596]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroCharF0C09394452D39B94AF174B8B2A30942.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.38.20:675][172]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.38.21:705][274]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.38.21:727][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.38.21:727][274]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:38:21 PM)
+[2018.12.04-22.38.21:727][274]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.38.21:735][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007481s)
+[2018.12.04-22.38.21:735][274]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.38.21:736][274]LogPlayLevel: PIE: World Init took: (0.000529s)
+[2018.12.04-22.38.21:736][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008114s)
+[2018.12.04-22.38.21:774][274]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.38.21:789][274]LogInit: FAudioDevice initialized.
+[2018.12.04-22.38.21:804][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.38.21:840][274]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.38.21:842][274]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.38.21
+[2018.12.04-22.38.21:842][274]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.38.21:842][274]LogWorld: Bringing up level for play took: 0.000633
+[2018.12.04-22.38.21:860][274]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.325
+[2018.12.04-22.38.24:697][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.38.24:716][608]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.38.24:758][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.38.24:806][610]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.04-22.38.28:146][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.38.37:990][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.38.38:070][174]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.38.39:314][300]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.38.39:337][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.38.39:337][300]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:38:39 PM)
+[2018.12.04-22.38.39:337][300]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.38.39:344][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007190s)
+[2018.12.04-22.38.39:344][300]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.38.39:345][300]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.12.04-22.38.39:345][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007796s)
+[2018.12.04-22.38.39:383][300]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.38.39:400][300]LogInit: FAudioDevice initialized.
+[2018.12.04-22.38.39:413][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.38.39:450][300]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.38.39:451][300]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.38.39
+[2018.12.04-22.38.39:451][300]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.38.39:451][300]LogWorld: Bringing up level for play took: 0.000588
+[2018.12.04-22.38.39:468][300]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.717
+[2018.12.04-22.38.43:926][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.38.43:946][827]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.38.43:983][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.38.44:031][829]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.04-22.38.45:856][ 48]Cmd: TRANSACTION UNDO
+[2018.12.04-22.38.45:856][ 48]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.04-22.38.46:422][113]Cmd: TRANSACTION UNDO
+[2018.12.04-22.38.46:422][113]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.04-22.38.51:251][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.38.54:238][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.38.54:302][ 27]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroCharC14D118443C3C8E662225E933B88E2D7.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.40.14:146][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.40.20:402][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.40.24:591][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.40.31:374][619]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.40.32:471][728]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.40.32:493][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.40.32:493][728]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:40:32 PM)
+[2018.12.04-22.40.32:494][728]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.40.32:501][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007838s)
+[2018.12.04-22.40.32:502][728]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.40.32:502][728]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.12.04-22.40.32:502][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008551s)
+[2018.12.04-22.40.32:545][728]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.40.32:561][728]LogInit: FAudioDevice initialized.
+[2018.12.04-22.40.32:576][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.40.32:616][728]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.40.32:617][728]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.40.32
+[2018.12.04-22.40.32:617][728]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.40.32:617][728]LogWorld: Bringing up level for play took: 0.000684
+[2018.12.04-22.40.32:634][728]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.449
+[2018.12.04-22.40.36:421][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.40.36:441][176]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.40.36:479][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.40.36:523][178]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.04-22.40.39:733][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.40.39:829][572]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.40.40:740][659]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.40.40:761][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.40.40:762][659]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:40:40 PM)
+[2018.12.04-22.40.40:762][659]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.40.40:769][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007176s)
+[2018.12.04-22.40.40:769][659]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.40.40:769][659]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.12.04-22.40.40:769][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007789s)
+[2018.12.04-22.40.40:809][659]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.40.40:825][659]LogInit: FAudioDevice initialized.
+[2018.12.04-22.40.40:838][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.40.40:876][659]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.40.40:878][659]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.40.40
+[2018.12.04-22.40.40:878][659]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.40.40:878][659]LogWorld: Bringing up level for play took: 0.000592
+[2018.12.04-22.40.40:895][659]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.709
+[2018.12.04-22.40.43:542][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.40.43:562][970]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.40.43:602][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.40.43:650][972]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.04-22.40.44:751][104]Cmd: TRANSACTION UNDO
+[2018.12.04-22.40.44:751][104]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.04-22.40.46:302][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.40.46:366][285]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroCharE35E859F4A0E5990BEDB689BBA0A9D4D.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.41.17:772][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.41.42:920][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.41.59:222][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.42.24:061][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.42.24:150][577]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.42.29:202][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.04-22.42.56:004][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.43.29:837][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.04-22.43.31:169][644]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.04-22.43.45:464][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.44.09:568][960]LogSlate: Window 'Save Content' being destroyed
+[2018.12.04-22.44.09:601][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameLogica/BP_GameMode" FILE="../../../../../../UnrealProjects/Vip/Content/GameLogica/BP_GameMode.uasset" SILENT=true
+[2018.12.04-22.44.09:667][960]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_GameMode7A7505AB4246B3144B91078B1FD11063.tmp' to '../../../../../../UnrealProjects/Vip/Content/GameLogica/BP_GameMode.uasset'
+[2018.12.04-22.44.09:693][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.44.09:769][960]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroChar636CBB2C4CAA1D378D6759B6854230A9.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.44.09:800][960]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.04-22.44.09:814][960]LightingResults: New page: Lighting Build
+[2018.12.04-22.44.09:814][960]LoadErrors: New page: Loading map: Level1.umap
+[2018.12.04-22.44.09:817][960]MapCheck: New page: Map Check
+[2018.12.04-22.44.09:817][960]LightingResults: New page: Lighting Build
+[2018.12.04-22.44.09:899][960]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.44.09:962][960]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.04-22.44.10:024][960]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.04-22.44.10:921][960]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 896.699ms to complete.
+[2018.12.04-22.44.10:921][960]LogFileHelpers: Loading map 'Level1' took 1.123
+[2018.12.04-22.44.10:922][960]LogSlate: Window 'Open Level' being destroyed
+[2018.12.04-22.44.16:513][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.44.16:618][634]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.44.16:639][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.44.16:639][634]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:44:16 PM)
+[2018.12.04-22.44.16:640][634]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.44.16:647][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007455s)
+[2018.12.04-22.44.16:647][634]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.44.16:648][634]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2018.12.04-22.44.16:648][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008143s)
+[2018.12.04-22.44.16:684][634]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.44.16:700][634]LogInit: FAudioDevice initialized.
+[2018.12.04-22.44.16:733][634]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.44.16:735][634]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.44.16
+[2018.12.04-22.44.16:735][634]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.44.16:735][634]LogWorld: Bringing up level for play took: 0.000612
+[2018.12.04-22.44.16:752][634]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.566
+[2018.12.04-22.44.19:689][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.19:729][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.44.19:767][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.19:794][988]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.04-22.44.21:298][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.44.25:473][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.44.25:536][672]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.44.26:689][787]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.44.26:711][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.44.26:711][787]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:44:26 PM)
+[2018.12.04-22.44.26:711][787]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.44.26:718][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007324s)
+[2018.12.04-22.44.26:719][787]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.44.26:719][787]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2018.12.04-22.44.26:719][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008082s)
+[2018.12.04-22.44.26:759][787]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.44.26:775][787]LogInit: FAudioDevice initialized.
+[2018.12.04-22.44.26:788][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.26:828][787]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.44.26:830][787]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.44.26
+[2018.12.04-22.44.26:830][787]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.44.26:830][787]LogWorld: Bringing up level for play took: 0.000656
+[2018.12.04-22.44.26:847][787]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.662
+[2018.12.04-22.44.29:622][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.29:642][114]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.44.29:682][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.44.29:732][116]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.04-22.44.32:708][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.44.32:797][482]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.44.34:119][618]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.44.34:140][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.44.34:140][618]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:44:34 PM)
+[2018.12.04-22.44.34:140][618]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.44.34:148][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007506s)
+[2018.12.04-22.44.34:148][618]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.44.34:148][618]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.12.04-22.44.34:148][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008107s)
+[2018.12.04-22.44.34:189][618]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.44.34:204][618]LogInit: FAudioDevice initialized.
+[2018.12.04-22.44.34:217][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.34:252][618]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.44.34:253][618]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.44.34
+[2018.12.04-22.44.34:254][618]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.44.34:254][618]LogWorld: Bringing up level for play took: 0.000636
+[2018.12.04-22.44.34:270][618]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.084
+[2018.12.04-22.44.36:580][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.36:600][890]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.44.36:637][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.44.36:679][891]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.04-22.44.40:902][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.44.40:982][402]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.44.42:207][526]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.44.42:228][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.44.42:228][526]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:44:42 PM)
+[2018.12.04-22.44.42:228][526]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.44.42:235][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007363s)
+[2018.12.04-22.44.42:236][526]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.44.42:236][526]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2018.12.04-22.44.42:236][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007970s)
+[2018.12.04-22.44.42:275][526]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.44.42:291][526]LogInit: FAudioDevice initialized.
+[2018.12.04-22.44.42:305][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.42:344][526]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.44.42:346][526]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.44.42
+[2018.12.04-22.44.42:346][526]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.44.42:346][526]LogWorld: Bringing up level for play took: 0.001035
+[2018.12.04-22.44.42:365][526]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.179
+[2018.12.04-22.44.47:025][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.44.47:046][ 79]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.44.47:085][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.44.47:134][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.04-22.44.56:496][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.44.56:576][208]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.45.04:770][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.45.04:833][170]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.45.05:707][252]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.45.05:729][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.45.05:729][252]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:45:05 PM)
+[2018.12.04-22.45.05:729][252]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.45.05:736][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007232s)
+[2018.12.04-22.45.05:736][252]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.45.05:737][252]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2018.12.04-22.45.05:737][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007859s)
+[2018.12.04-22.45.05:778][252]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.45.05:795][252]LogInit: FAudioDevice initialized.
+[2018.12.04-22.45.05:808][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.45.05:844][252]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.45.05:845][252]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.45.05
+[2018.12.04-22.45.05:846][252]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.45.05:846][252]LogWorld: Bringing up level for play took: 0.000763
+[2018.12.04-22.45.05:863][252]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.323
+[2018.12.04-22.45.11:013][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.45.11:033][864]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.45.11:073][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.45.11:116][866]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.04-22.45.20:515][993]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.45.20:537][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.45.20:537][993]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:45:20 PM)
+[2018.12.04-22.45.20:537][993]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.45.20:544][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007188s)
+[2018.12.04-22.45.20:545][993]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.45.20:545][993]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2018.12.04-22.45.20:545][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008030s)
+[2018.12.04-22.45.20:583][993]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.45.20:599][993]LogInit: FAudioDevice initialized.
+[2018.12.04-22.45.20:612][993]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.45.20:650][993]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.45.20:651][993]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.45.20
+[2018.12.04-22.45.20:652][993]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.45.20:652][993]LogWorld: Bringing up level for play took: 0.000582
+[2018.12.04-22.45.20:668][993]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.482
+[2018.12.04-22.45.22:006][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.45.22:025][148]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.45.22:062][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.45.22:105][150]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.04-22.45.24:493][436]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.45.24:515][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.45.24:515][436]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:45:24 PM)
+[2018.12.04-22.45.24:516][436]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.45.24:523][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007143s)
+[2018.12.04-22.45.24:523][436]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.45.24:523][436]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2018.12.04-22.45.24:523][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007738s)
+[2018.12.04-22.45.24:563][436]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.45.24:579][436]LogInit: FAudioDevice initialized.
+[2018.12.04-22.45.24:592][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.45.24:633][436]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.45.24:634][436]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.45.24
+[2018.12.04-22.45.24:634][436]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.45.24:634][436]LogWorld: Bringing up level for play took: 0.000672
+[2018.12.04-22.45.24:651][436]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.466
+[2018.12.04-22.45.38:843][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.45.38:864][972]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.45.38:901][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.45.38:944][974]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.04-22.45.57:790][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.45.57:856][226]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroChar2A21473E4D0B3303E9AD00A0AFE0EC7C.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.46.27:252][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.46.30:483][294]BlueprintLog: New page: Compile BP_HeroChar
+[2018.12.04-22.46.31:537][397]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.46.31:559][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.46.31:559][397]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:46:31 PM)
+[2018.12.04-22.46.31:559][397]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.46.31:567][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007915s)
+[2018.12.04-22.46.31:567][397]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.46.31:567][397]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.12.04-22.46.31:567][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.008591s)
+[2018.12.04-22.46.31:606][397]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.46.31:623][397]LogInit: FAudioDevice initialized.
+[2018.12.04-22.46.31:636][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.46.31:676][397]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.46.31:678][397]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.46.31
+[2018.12.04-22.46.31:678][397]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.46.31:678][397]LogWorld: Bringing up level for play took: 0.000683
+[2018.12.04-22.46.31:695][397]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.49
+[2018.12.04-22.46.34:927][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.46.34:948][778]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.46.34:984][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.46.35:032][780]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.04-22.47.51:585][781]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.47.51:609][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.47.51:609][781]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:47:51 PM)
+[2018.12.04-22.47.51:609][781]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.47.51:616][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007209s)
+[2018.12.04-22.47.51:617][781]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.47.51:617][781]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2018.12.04-22.47.51:617][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.007970s)
+[2018.12.04-22.47.51:657][781]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.47.51:673][781]LogInit: FAudioDevice initialized.
+[2018.12.04-22.47.51:687][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.47.51:724][781]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.47.51:726][781]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.47.51
+[2018.12.04-22.47.51:726][781]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.47.51:726][781]LogWorld: Bringing up level for play took: 0.000702
+[2018.12.04-22.47.51:743][781]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.443
+[2018.12.04-22.47.54:599][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.47.54:619][117]LogSlate: Window 'Vip Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.04-22.47.54:656][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.47.54:704][119]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.04-22.48.01:438][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Personagem/BP_HeroChar" FILE="../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset" SILENT=true
+[2018.12.04-22.48.01:503][924]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/BP_HeroChar668CA30E48ACC4B8CBAD50B5EA95C361.tmp' to '../../../../../../UnrealProjects/Vip/Content/Personagem/BP_HeroChar.uasset'
+[2018.12.04-22.48.17:293][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.48.22:531][413]Cmd: DELETE
+[2018.12.04-22.48.22:531][413]Cmd: ACTOR DELETE
+[2018.12.04-22.48.22:552][413]LogEditorActor: Deleted Actor: Brush
+[2018.12.04-22.48.22:578][413]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2018.12.04-22.48.24:613][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.48.28:850][158]LogActorFactory: Actor Factory created Cube
+[2018.12.04-22.48.29:160][187]LogActorFactory: Actor Factory created Cube
+[2018.12.04-22.48.31:245][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.48.53:816][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.48.53:913][129]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.48.53:935][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.48.53:935][129]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:48:53 PM)
+[2018.12.04-22.48.53:936][129]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.48.53:937][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001098s)
+[2018.12.04-22.48.53:937][129]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.48.53:937][129]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.12.04-22.48.53:937][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.001694s)
+[2018.12.04-22.48.53:977][129]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.48.53:993][129]LogInit: FAudioDevice initialized.
+[2018.12.04-22.48.54:033][129]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.48.54:035][129]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.48.54
+[2018.12.04-22.48.54:036][129]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.48.54:036][129]LogWorld: Bringing up level for play took: 0.001213
+[2018.12.04-22.48.54:057][129]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.128
+[2018.12.04-22.48.55:744][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.48.55:782][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.48.55:807][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.48.55:847][334]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.04-22.48.57:259][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.12.04-22.49.04:215][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.04-22.49.07:251][678]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.04-22.49.09:468][941]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.49.10:644][ 80]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.49.12:119][255]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.49.12:796][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.12.04-22.49.14:134][487]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.04-22.49.15:272][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.49.15:343][629]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.49.15:365][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.49.15:365][629]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:49:15 PM)
+[2018.12.04-22.49.15:365][629]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.49.15:366][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001174s)
+[2018.12.04-22.49.15:367][629]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.49.15:367][629]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.12.04-22.49.15:367][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.001836s)
+[2018.12.04-22.49.15:405][629]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.49.15:421][629]LogInit: FAudioDevice initialized.
+[2018.12.04-22.49.15:455][629]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.49.15:457][629]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.49.15
+[2018.12.04-22.49.15:457][629]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.49.15:457][629]LogWorld: Bringing up level for play took: 0.000488
+[2018.12.04-22.49.15:472][629]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 -0.714
+[2018.12.04-22.49.17:647][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.49.17:687][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.49.17:711][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.49.17:751][894]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.04-22.49.19:430][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.12.04-22.49.19:863][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.12.04-22.49.31:466][521]Cmd: TRANSACTION UNDO
+[2018.12.04-22.49.31:466][521]LogEditorTransaction: Undo Move Actors
+[2018.12.04-22.49.37:357][222]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.49.39:680][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.04-22.49.42:909][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.49.54:622][273]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.49.58:482][733]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.49.59:608][866]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.04:380][435]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.06:394][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.12.04-22.50.08:082][872]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.04-22.50.09:971][ 96]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.11:180][239]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.16:217][840]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.17:726][ 19]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.19:756][258]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.20:456][340]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.21:622][477]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.22:375][567]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.04-22.50.23:387][686]Cmd: TRANSACTION UNDO
+[2018.12.04-22.50.23:387][686]LogEditorTransaction: Undo Move Actors
+[2018.12.04-22.50.27:189][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.50.27:290][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.50.27:387][147]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level16445F0384F63A15AA7301F9DD94BE1B8.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.50.28:593][282]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.50.28:614][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.50.28:614][282]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:50:28 PM)
+[2018.12.04-22.50.28:614][282]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.50.28:616][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001254s)
+[2018.12.04-22.50.28:616][282]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.50.28:616][282]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2018.12.04-22.50.28:616][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.001924s)
+[2018.12.04-22.50.28:658][282]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.50.28:673][282]LogInit: FAudioDevice initialized.
+[2018.12.04-22.50.28:709][282]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.50.28:711][282]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.50.28
+[2018.12.04-22.50.28:711][282]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.50.28:711][282]LogWorld: Bringing up level for play took: 0.000519
+[2018.12.04-22.50.28:727][282]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.541
+[2018.12.04-22.50.42:626][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.50.42:662][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.50.42:687][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.50.42:730][952]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.04-22.50.50:038][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.50.50:918][930]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.50.55:802][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.51.29:054][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.51.34:620][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.51.54:523][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.51.54:662][477]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.51.54:683][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.51.54:683][477]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:51:54 PM)
+[2018.12.04-22.51.54:683][477]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.51.54:684][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001361s)
+[2018.12.04-22.51.54:685][477]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.51.54:685][477]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2018.12.04-22.51.54:685][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.002096s)
+[2018.12.04-22.51.54:758][477]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.51.54:775][477]LogInit: FAudioDevice initialized.
+[2018.12.04-22.51.54:807][477]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.51.54:809][477]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.51.54
+[2018.12.04-22.51.54:809][477]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.51.54:809][477]LogWorld: Bringing up level for play took: 0.000728
+[2018.12.04-22.51.54:825][477]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.639
+[2018.12.04-22.51.57:025][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.51.57:065][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.51.57:088][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.51.57:128][744]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.04-22.51.59:425][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.52.11:241][298]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2018.12.04-22.52.11:331][298]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.04-22.52.37:943][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.12.04-22.52.40:529][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.52.41:858][936]LogEditorActor: Deleted Actor: BP_HeroChar_C
+[2018.12.04-22.52.41:883][936]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.12.04-22.52.44:998][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.52.46:878][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mapas/Level1" FILE="../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.52.46:961][525]LogSavePackage: Moving '../../../../../../UnrealProjects/Vip/Saved/Level13D43C3BF49927979611D7FBAECEA6F35.tmp' to '../../../../../../UnrealProjects/Vip/Content/Mapas/Level1.umap'
+[2018.12.04-22.52.51:042][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.52.52:520][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.12.04-22.52.57:961][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.53.01:093][203]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.53.03:480][488]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.04-22.53.16:548][908]LogRenderer: Reallocating scene render targets to support 1532x756 Format 10 NumSamples 1 (Frame:38688).
+[2018.12.04-22.53.40:849][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.53.40:954][701]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.04-22.53.40:977][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.04-22.53.40:977][701]PIE: New page: PIE session: Level1 (Dec 4, 2018, 2:53:40 PM)
+[2018.12.04-22.53.40:977][701]LogPlayLevel: Creating play world package: /Game/Mapas/UEDPIE_0_Level1
+[2018.12.04-22.53.40:978][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001266s)
+[2018.12.04-22.53.40:979][701]LogAIModule: Creating AISystem for world Level1
+[2018.12.04-22.53.40:979][701]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.12.04-22.53.40:979][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Mapas/Level1.Level1 to /Game/Mapas/UEDPIE_0_Level1.Level1 (0.001983s)
+[2018.12.04-22.53.41:020][701]LogInit: XAudio2 using 'E2350 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.04-22.53.41:036][701]LogInit: FAudioDevice initialized.
+[2018.12.04-22.53.41:068][701]LogLoad: Game class is 'BP_GameMode_C'
+[2018.12.04-22.53.41:070][701]LogWorld: Bringing World /Game/Mapas/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.04-18.53.41
+[2018.12.04-22.53.41:070][701]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (BP_GameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.12.04-22.53.41:070][701]LogWorld: Bringing up level for play took: 0.000547
+[2018.12.04-22.53.41:085][701]PIE: Play in editor start time for /Game/Mapas/UEDPIE_0_Level1 0.899
+[2018.12.04-22.53.44:552][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.53.44:588][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.04-22.53.44:614][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.04-22.53.44:656][121]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.04-22.53.52:459][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.04-22.53.52:730][430]LogSlate: Window 'Vip - Unreal Editor' being destroyed
+[2018.12.04-22.53.53:006][431]Cmd: QUIT_EDITOR
+[2018.12.04-22.53.53:680][431]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.04-22.53.53:713][431]LogExit: Preparing to exit.
+[2018.12.04-22.53.54:856][431]LogExit: Editor shut down
+[2018.12.04-22.53.54:856][431]LogExit: Transaction tracking system shut down
+[2018.12.04-22.53.55:497][431]LogExit: Object subsystem successfully closed.
+[2018.12.04-22.53.55:520][431]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.04-22.53.55:523][431]LogD3D11RHI: Shutdown
+[2018.12.04-22.53.55:523][431]LogD3D11RHI: CleanupD3DDevice
+[2018.12.04-22.53.55:524][431]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.12.04-22.53.55:779][431]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.04-22.53.55:780][431]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.04-22.53.55:781][431]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.04-22.53.56:486][431]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.04-22.53.56:487][431]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.04-22.53.56:487][431]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.04-22.53.56:487][431]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.04-22.53.56:487][431]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.04-22.53.56:487][431]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.04-22.53.56:487][431]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.04-22.53.56:487][431]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.04-22.53.56:551][431]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.04-22.53.56:552][431]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.04-22.53.56:559][431]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.04-22.53.56:559][431]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.04-22.53.56:561][431]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.04-22.53.56:561][431]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.04-22.53.56:561][431]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.04-22.53.56:561][431]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.04-22.53.56:561][431]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.04-22.53.56:561][431]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.04-22.53.56:561][431]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.04-22.53.56:562][431]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.04-22.53.56:722][431]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.04-22.53.56:728][431]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.04-22.53.56:728][431]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.04-22.53.56:728][431]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.04-22.53.56:728][431]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.04-22.53.56:729][431]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.04-22.53.56:735][431]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.04-22.53.56:736][431]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.04-22.53.56:837][431]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.04-22.53.56:937][431]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.04-22.53.56:937][431]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.04-22.53.56:937][431]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.04-22.53.56:937][431]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.04-22.53.56:937][431]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.04-22.53.56:937][431]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.04-22.53.56:937][431]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.04-22.53.56:938][431]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.04-22.53.56:938][431]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.04-22.53.56:939][431]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.04-22.53.56:939][431]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.04-22.53.56:943][431]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.04-22.53.56:945][431]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.04-22.53.56:945][431]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.04-22.53.56:945][431]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.04-22.53.56:945][431]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.04-22.53.56:945][431]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.04-22.53.56:945][431]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.04-22.53.56:948][431]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.04-22.53.56:955][431]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.04-22.53.56:956][431]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.04-22.53.56:956][431]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.04-22.53.56:956][431]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.04-22.53.56:956][431]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.04-22.53.56:960][431]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.04-22.53.56:960][431]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.04-22.53.56:960][431]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.04-22.53.56:960][431]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.04-22.53.56:961][431]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.04-22.53.57:027][431]LogDerivedDataCache: Shutdown
+[2018.12.04-22.53.57:027][431]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.04-22.53.57:027][431]LogXGEController: Cleaning working directory: C:/Users/myerc/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.04-22.53.57:031][431]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.04-22.53.57:032][431]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.04-22.53.57:032][431]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.04-22.53.57:032][431]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.04-22.53.57:032][431]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.04-22.53.57:032][431]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.04-22.53.57:047][431]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.04-22.53.57:047][431]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.04-22.53.57:048][431]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.04-22.53.57:048][431]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.04-22.53.57:056][431]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.04-22.53.57:056][431]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.04-22.53.57:056][431]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.04-22.53.57:056][431]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.04-22.53.57:056][431]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.04-22.53.57:056][431]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.04-22.53.57:057][431]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.04-22.53.57:074][431]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.04-22.53.57:075][431]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.04-22.53.57:075][431]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B45123E95-43E4-6164-FBBE-E48EA41AF4D4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=f6a4418f4f8e2dd0287a31a81013c1d1%7C3e48838f0ea6411cb75b1de3cae98306%7C187ee4ad-89c3-4429-b264-3e8ab4c59196&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.04-22.53.57:095][431]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.04-22.53.57:096][431]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.04-22.53.57:096][431]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.04-22.53.57:097][431]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.04-22.53.57:102][431]LogExit: Exiting.
+[2018.12.04-22.53.57:105][431]Log file closed, 12/04/18 18:53:57
